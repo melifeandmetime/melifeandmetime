@@ -1,4 +1,4 @@
-# Halo semua! 
+# Hello Everyone! 
 
 Let me introduce myself. My Name is **Aldi Yoga Setiawan**.\
 I'm Currently College Student on **Information System Degree**.\
