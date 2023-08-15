@@ -1,4 +1,5 @@
 # Hello Everyone! 
+![Profile views](https://komarev.com/ghpvc/?username=melifeandmetime&color=brightgreen)
 
 Let me introduce myself. My Name is **Aldi Yoga Setiawan**.\
 I'm Currently College Student on **Information System Degree**.\
