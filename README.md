@@ -2,7 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=melifeandmetime&color=brightgreen)
 
 Information Systems Graduate | Data Enthusiast \
-You can follow my Linkedin account [Linkedin](https://www.linkedin.com/in/aldi-yoga-setiawan/) 
+Follow my Linkedin account :) [Linkedin](https://www.linkedin.com/in/aldi-yoga-setiawan/) 
 
 #### Skills 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
