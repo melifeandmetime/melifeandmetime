@@ -1,4 +1,4 @@
-## Hello, I'm Aldi Yoga Setiawan
+## Hello, I'm Aldi Yoga Setiawan :crossed_fingers:
 ![Profile views](https://komarev.com/ghpvc/?username=melifeandmetime&color=brightgreen)
 
 Information Systems Graduate | Data Enthusiast \
